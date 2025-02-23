@@ -1,0 +1,1 @@
+{"conversations": [{"from": "system", "value": "Project assistant"}, {"from": "human", "value": "List the project dependencies Name Project"}, {"from": "gpt", "value": "Django==3.2.14\ncx-Oracle==8.3.0\nrequests==2.27.1\npython-ldap==3.3.1\nopenpyxl==3.0.10\nXlsxWriter==3.2.0\nreportlab==4.2.5"}]}
